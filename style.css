@@ -16,9 +16,11 @@ body {
 }
 
 main {
-  background: url(./images/Desktop.svg);
-  width: 1440px;
+  background: url(./images/Desktop.svg), #000;
+
+  width: 100%;
   height: 820px;
+  background-position: center;
 }
 
 .container {
